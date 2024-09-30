@@ -1,4 +1,4 @@
-instruments (program - played, musician,...)
+instruments (program - played, sound, timbre,...)
 2 child classes
 parent: instruments
 child 1: violin (bow)
