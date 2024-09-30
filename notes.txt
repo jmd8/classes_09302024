@@ -1,0 +1,5 @@
+instruments (program - played, musician,...)
+2 child classes
+parent: instruments
+child 1: violin (bow)
+child 2: guitar (pick)
